@@ -1,25 +1,25 @@
 Open main1.py. Before running it, what do you expect this program to do? 
-
+Checks the version of python. Then says "greetings!" and asks for my favorite color.
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
-
+It gave me an error when I typed in red and said that it is not defined.
 What do you think the program did with what you typed?
-
+There is no place for this information to go so it probably threw it away.
 
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
-
+It is all the same except this one prints back to me my favorite color
 What do you think the color = input() will do? 
-
+It will assign whatever the input is to the variable "color".
 Run the program in the terminal and answer the question. Did the program do what you expected?
-
+Yes, it fixed the error from main1 and printed my favorite color.
 
 
 Open main3.py. Before running it, describe how this is different than main2.py. 
-
+It will make you guess the computers favorite color.
 What is happening on lines 11–14? 
-
+It is checking to see if the user guesses the correct answer. The correct answer is Red.
 Why are lines 12 and 14 indented? 
-
+It is apart of the if statement and everything indented is apart of that statement.
 Run the program and answer the question. What happens if you don’t capitalize Red? 
 
 What does this tell you about "color"?
