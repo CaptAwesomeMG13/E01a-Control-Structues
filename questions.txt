@@ -21,17 +21,17 @@ It is checking to see if the user guesses the correct answer. The correct answer
 Why are lines 12 and 14 indented? 
 It is apart of the if statement and everything indented is apart of that statement.
 Run the program and answer the question. What happens if you don’t capitalize Red? 
-
+It says no try again.
 What does this tell you about "color"?
-
+It is case sensitive
 
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
-
+This one has both "Red" and "red" for upper case and lower case answers.
 What problem is this trying to solve? 
-
+Its trying to fix the issue with upper case letters.
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
-
+It is still wrong and says to try again
 
 
 Open main5.py. What do you expect line 11 to do? 
