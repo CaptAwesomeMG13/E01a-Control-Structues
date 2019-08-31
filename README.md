@@ -55,3 +55,5 @@ The grading criteria will be as follows:
 * [8] Accomplishes the objective of the exercise
 
 10 points total
+
+All Questions have been answered and only main 10 has been changed to match with the extra credit portion of the assignent.
