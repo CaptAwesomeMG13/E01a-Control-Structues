@@ -59,21 +59,21 @@ Run the program and answer the question.
 
 
 Open main8.py. What is the purpose of line 11? 
-
+It tells if the program to do something while it is not red.
 Why are lines 12–19 indented? 
 They are apart of the while statement and only happen when the while statement is true.
 Run the program. What would happen if line 12 were moved before line 11 (and no longer indented)? 
-
+It would not repeate the question after every wrong attempt.
 Make that change and run the program again. To end any Python program, you can type ctrl-c.
-
+It runs the program infinitely.
 
 
 Open main9.py. What is happening on line 12? 
-
+It tells if the program to do something while it is not red.
 What is the purpose of “count”? 
-
+to count the number of guesses it took.
 What is happening on line 22? 
-
+it tells you after you guessed it right how many tried it took you.
 Run the program.
 
 
@@ -82,3 +82,4 @@ Run the program.
 Commit your changes and push them back to the repository. 
 
 Did you do the extra credit?
+Yes!
